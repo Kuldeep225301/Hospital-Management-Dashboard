@@ -1,4 +1,5 @@
 **Objective**
+
 The objective of this project is to design an interactive Hospital Management Dashboard using Power BI that provides a 
 comprehensive overview of hospital operations and financial performance.
 The dashboard aims to help hospital management and stakeholders monitor patient demographics, doctor availability, 
